@@ -1,0 +1,58 @@
+## Weighting Methodology
+
+The VOLT AI Power Semiconductor Index uses a proprietary AI Power Relevance framework designed to identify companies most exposed to next-generation AI power infrastructure.
+
+The index combines three primary factors:
+
+| Factor | Weight |
+|---|---|
+| AI Power Relevance | 50% |
+| Power Semiconductor Purity | 30% |
+| Market Quality & Liquidity | 20% |
+
+### AI Power Relevance
+Measures how directly a company contributes to:
+
+- GPU power delivery
+- AI power density
+- AI server infrastructure
+- 800V and next-generation power architectures
+
+### Power Semiconductor Purity
+Measures how focused a company is on:
+
+- Power semiconductors
+- GaN / SiC devices
+- PMICs
+- Power conversion technologies
+
+### Market Quality & Liquidity
+Measures:
+
+- Market capitalization
+- Trading liquidity
+- ETF suitability
+
+---
+
+## Current Constituent Weights
+
+| Company | Ticker | Weight |
+|---|---|---|
+| Monolithic Power Systems | MPWR | 11.6% |
+| Navitas Semiconductor | NVTS | 10.3% |
+| Vicor | VICR | 10.2% |
+| Wolfspeed | WOLF | 10.0% |
+| Infineon Technologies | IFNNY | 9.6% |
+| STMicroelectronics | STM | 9.3% |
+| Power Integrations | POWI | 9.2% |
+| ON Semiconductor | ON | 9.0% |
+| Texas Instruments | TXN | 7.5% |
+| Analog Devices | ADI | 7.2% |
+| Alpha and Omega Semiconductor | AOSL | 6.2% |
+
+---
+
+## Rebalancing
+
+The index is reviewed and rebalanced quarterly to reflect evolving developments in AI power infrastructure and semiconductor markets.
